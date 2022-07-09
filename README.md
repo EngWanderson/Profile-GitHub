@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href= "https://www.linkedin.com/in/wanderson-nascimento-b5a858138"><i>Wanderson!</i></a> 😃️</h1>
-  
-  <p align="center">Estudo Desenvolvimento Web!
-  <br>
-  <p align="center"></h2>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/wanderson-nascimento-b5a858138/"><i>Wanderson!</i></a> 😃️</h1>
+  <p align="center">Estudo Desenvolvimento Web 
+
+  </a><br>
+ 
 </div>
 
 
@@ -36,7 +36,7 @@
 </div><br>
 
 <div align="center">
-  
+  <a> </a>
   <a href="https://www.instagram.com/francisco_wandersonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- <a href="https://www.facebook.com/wandersonps2" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
   <a href="https://www.linkedin.com/in/wanderson-nascimento-b5a858138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
